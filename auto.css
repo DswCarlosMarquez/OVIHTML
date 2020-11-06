@@ -17,11 +17,11 @@
 }
 #navigation_container {
     margin: 0 auto;
-    width: 800px;
+    width: 950px;
  }
  .rectangle {
     background: #e5592e;
-    height: 62px;
+    height: 120px;
     position: relative;
     -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.30);
     box-shadow: 0px 0px 4px rgba(0,0,0,0.10);
